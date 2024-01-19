@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Briant\\source\\repos\\ggLeap_Automation\\ggLeap_Automation\\ggLeap.csproj": {}
+    "C:\\Users\\Briant\\Desktop\\new-Automation-Practice-SeleniumCSharp\\ggLeap_Automation\\ggLeap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Briant\\source\\repos\\ggLeap_Automation\\ggLeap_Automation\\ggLeap.csproj": {
+    "C:\\Users\\Briant\\Desktop\\new-Automation-Practice-SeleniumCSharp\\ggLeap_Automation\\ggLeap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Briant\\source\\repos\\ggLeap_Automation\\ggLeap_Automation\\ggLeap.csproj",
+        "projectUniqueName": "C:\\Users\\Briant\\Desktop\\new-Automation-Practice-SeleniumCSharp\\ggLeap_Automation\\ggLeap.csproj",
         "projectName": "ggLeap",
-        "projectPath": "C:\\Users\\Briant\\source\\repos\\ggLeap_Automation\\ggLeap_Automation\\ggLeap.csproj",
+        "projectPath": "C:\\Users\\Briant\\Desktop\\new-Automation-Practice-SeleniumCSharp\\ggLeap_Automation\\ggLeap.csproj",
         "packagesPath": "C:\\Users\\Briant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Briant\\source\\repos\\ggLeap_Automation\\ggLeap_Automation\\obj\\",
+        "outputPath": "C:\\Users\\Briant\\Desktop\\new-Automation-Practice-SeleniumCSharp\\ggLeap_Automation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

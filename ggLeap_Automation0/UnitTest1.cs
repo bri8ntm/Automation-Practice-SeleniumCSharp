@@ -8,6 +8,7 @@ namespace ggLeap_Automation0
         public void Setup()
         {
             System.Console.WriteLine("code change test");
+            System.Console.WriteLine("code change test 0");
         }
 
         [Test]
